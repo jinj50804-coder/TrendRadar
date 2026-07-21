@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T00:07:58.592678+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-22T04:50:56.637014+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普承认伊朗在约旦“钻了空子”",
@@ -30,6 +30,41 @@
           "time_info": "00时07分"
         },
         {
+          "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
+          "url": "https://www.zhihu.com/question/2062849285499138343",
+          "source": "知乎",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 04时50分]"
+        },
+        {
+          "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
+          "url": "https://news.ifeng.com/c/8uwZlCa0EaK",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 04时50分]"
+        },
+        {
+          "title": "特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价",
+          "url": "https://wallstreetcn.com/articles/3777496",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 04时50分]"
+        },
+        {
           "title": "特朗普称美伊冲突“远未结束”，将打击伊朗核设施",
           "url": "https://flash.jin10.com/detail/20260721234316528800",
           "source": "金十数据",
@@ -41,44 +76,11 @@
           "time_info": "00时07分"
         },
         {
-          "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
-          "url": "https://www.zhihu.com/question/2062849285499138343",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
-          "url": "https://news.ifeng.com/c/8uwZlCa0EaK",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
           "title": "美国总统特朗普：将非常猛烈地打击镐山地区。",
           "url": "https://flash.jin10.com/detail/20260721234059763800",
           "source": "金十数据",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "特朗普暗示美军将对伊朗发动强硬报复：每杀害一名美国士兵将付出数倍代价",
-          "url": "https://wallstreetcn.com/articles/3777496",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -162,6 +164,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "黎巴嫩总理：政府已准备执行特朗普允许美国航空公司直飞黎巴嫩的相关行政和技术措施。",
+          "url": "https://flash.jin10.com/detail/20260722040053684800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
           "title": "美国总统特朗普：（在谈及加拿大关税时表示）这与野火无关。",
           "url": "https://flash.jin10.com/detail/20260721233528208800",
           "source": "金十数据",
@@ -171,6 +184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "美国总统特朗普：允许美国所有的航空公司直飞黎巴嫩。",
+          "url": "https://wallstreetcn.com/livenews/3137726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         },
         {
           "title": "美国总统特朗普：我们的协议将不允许伊朗拥有核武器。我们将打击伊朗考虑用于核武器的任何地点。",
@@ -197,8 +221,157 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
+          "url": "https://wallstreetcn.com/articles/3777383",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 04时50分]"
+        },
+        {
+          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2433005",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 04时50分]"
+        },
+        {
+          "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "Oklo与X-Energy加入美国总统特朗普设法加速面向AI的核反应堆的行动。 Oklo美股盘后涨6%，X-Energy涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3137751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "全球科技股反弹！美股盘初走高，存储芯片股普涨，闪迪涨9%，布油重回90美元上方，现货白银涨4%",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时07分"
+        },
+        {
+          "title": "新兴市场ETF收涨2.8%，与布油基金、黄金ETF等领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3137748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "超微电脑（SMCI）预计第四财季营收接近指引区间110亿-125亿美元的底部。 预计第四财季毛利润率15%-17%，公司原本预计8.2%-8.4%。 超微电脑美股盘后涨超20%。",
+          "url": "https://wallstreetcn.com/livenews/3137744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "周二（7月21日），美股行业ETF多数上涨，半导体ETF涨4.52%，全球科技股指数ETF涨3.11%，科技行业ETF涨2.89%，能源业ETF涨0.98%，网络股指数ETF跌0.27%。",
+          "url": "https://wallstreetcn.com/livenews/3137743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "金十图示：2026年07月21日（周二）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260722040542487800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "美股存储芯片指数初步收涨11.2%，半导体指数涨5.2%。 标普500指数初步收涨0.9%，科技板块涨2.4%，能源板块涨1.1%，电信板块跌0.7%，日用消费品板块跌0.9%。 纳斯达克100指数初步收涨1.9%，成分股中，Nebius集团初步收涨19%，闪迪涨14%，西部数据涨12.5%，希捷科技涨11.2%，英特尔涨8.8%，Adobe跌3.1%，CrowdStrike跌3.7%，Workday跌3.9%，汤森路透跌5%。",
+          "url": "https://wallstreetcn.com/livenews/3137738",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "金十图示：2026年07月21日（周二）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260722040528612800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "美股存储芯片指数涨超10%，美光科技上涨10.17%，SK海力士上涨11.18%，闪迪上涨11.86%，西部数据上涨12.67%，希捷科技上涨10.42%，铠侠ADR上涨13.78%。",
+          "url": "https://wallstreetcn.com/livenews/3137664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时07分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 美光和海力士大涨",
+          "url": "https://flash.jin10.com/detail/20260722040214025800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
         {
           "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
@@ -208,8 +381,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 04时50分]"
         },
         {
           "title": "伊朗还有两大杀手锏",
@@ -219,8 +392,41 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 04时50分]"
+        },
+        {
+          "title": "伊朗总统强调团结对当前局势至关重要",
+          "url": "https://flash.jin10.com/detail/20260722040932222800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时07分"
+          "time_info": "04时50分"
+        },
+        {
+          "title": "美国战争部长赫格塞斯：（美国+以色列发动的）伊朗战争给美方带来375亿美元成本。",
+          "url": "https://wallstreetcn.com/livenews/3137735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "伊朗总统强调团结对当前局势至关重要",
+          "url": "https://wallstreetcn.com/livenews/3137734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         },
         {
           "title": "科威特召见伊朗大使 抗议该国船只遭袭",
@@ -232,6 +438,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "伊朗打击科威特境内Ali Al Salem基地和Bubiyan岛。（IRIB）",
+          "url": "https://wallstreetcn.com/livenews/3137727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：美国与伊朗冲突迄今已花费约375亿美元。",
+          "url": "https://flash.jin10.com/detail/20260722035145635800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "伊朗海军同时从3个方向猛烈打击美军",
+          "url": "https://www.toutiao.com/trending/7663674772672512009/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         },
         {
           "title": "科威特借油轮遇袭事件召见伊朗大使。",
@@ -269,87 +508,20 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "全球科技股反弹！美股盘初走高，存储芯片股普涨，闪迪涨9%，布油重回90美元上方，现货白银涨4%",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
-          "url": "https://wallstreetcn.com/articles/3777383",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "美股AI概念盘前昂扬齐涨 美伊战火仍在持续 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2433005",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "美股存储芯片指数涨超10%，美光科技上涨10.17%，SK海力士上涨11.18%，闪迪上涨11.86%，西部数据上涨12.67%，希捷科技上涨10.42%，铠侠ADR上涨13.78%。",
-          "url": "https://wallstreetcn.com/livenews/3137664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
-          "url": "https://wallstreetcn.com/articles/3777467",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "Alphabet旗下谷歌公司推出Gemini 3.6 Flash，3.5 Flash-LITE、以及3.5 Flash Cyber。 目前，Gemini 3.5 Pro处于与合作伙伴的测试过程中。",
-          "url": "https://wallstreetcn.com/livenews/3137668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "OpenAI负责人抨击Kimi开源",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
+          "source": "贴吧",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 04时50分]"
+        },
         {
           "title": "OpenAI的CEO Altman将向美国官员们介绍下一波AI模型。",
           "url": "https://wallstreetcn.com/livenews/3137675",
@@ -362,15 +534,159 @@
           "time_info": "00时07分"
         },
         {
-          "title": "OpenAI负责人抨击Kimi开源",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356366&amp;topic_name=OpenAI%E8%B4%9F%E8%B4%A3%E4%BA%BA%E6%8A%A8%E5%87%BBKimi%E5%BC%80%E6%BA%90",
-          "source": "贴吧",
+          "title": "OpenAI表示，将改进并增加未来模型训练和评估环节的安全保护措施。",
+          "url": "https://flash.jin10.com/detail/20260722040618226800",
+          "source": "金十数据",
           "ranks": [
-            22
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "OpenAI表示，Hugging Face安全事件是由多个OpenAI模型共同导致，其中包括GPT-5.6 Sol以及一款能力更强的预发布模型。",
+          "url": "https://flash.jin10.com/detail/20260722040538698800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "OpenAI表示，Hugging Face遭遇的安全漏洞事件是由其旗下一个模型导致的。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3137736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "OpenAI表示，目前公布初步调查结果，旨在帮助防御方了解此次网络安全事件的经过。正在实施更严格的基础设施控制措施，并强化模型安全防护机制。",
+          "url": "https://flash.jin10.com/detail/20260722040522934800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "OpenAI与Hugging Face宣布合作，应对在模型评估过程中发生的安全事件。",
+          "url": "https://flash.jin10.com/detail/20260722040337286800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "OpenAI新增两名独董到董事会。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3137732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "据Axios：OpenAI表示，Hugging Face遭遇的安全漏洞事件是由其旗下一个模型导致的。",
+          "url": "https://flash.jin10.com/detail/20260722035557529800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI在首次公开募股前增聘两名独立董事，分别为数字银行Nubank创始人兼首席执行官大卫·贝莱兹以及纽约梅隆银行首席执行官罗宾·文斯。",
+          "url": "https://flash.jin10.com/detail/20260722034543375800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3777467",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 04时50分]"
+        },
+        {
+          "title": "Alphabet旗下谷歌公司推出Gemini 3.6 Flash，3.5 Flash-LITE、以及3.5 Flash Cyber。 目前，Gemini 3.5 Pro处于与合作伙伴的测试过程中。",
+          "url": "https://wallstreetcn.com/livenews/3137668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "怎么看谷歌发布了 Gemini 3.6 flash 和 3.5 lite，但是 pro 又缺席？",
+          "url": "https://www.zhihu.com/question/2063033606767895735",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美元指数21日上涨",
+          "url": "https://flash.jin10.com/detail/20260722040255901800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
+        },
+        {
+          "title": "美元指数涨超0.2%，日元跌穿163",
+          "url": "https://wallstreetcn.com/livenews/3137725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时50分"
         }
       ]
     },
@@ -386,8 +702,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "appearance_count": 2,
+          "time_info": "[00时07分 ~ 04时50分]"
         }
       ]
     }
