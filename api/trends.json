@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T05:15:08.484751+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-08-17T06:14:53.689894+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
@@ -26,19 +26,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
-          "title": "美国总统特朗普表示，他度过了一个“很棒”的周末，进行了“许多会议”。",
-          "url": "https://flash.jin10.com/detail/20260817043331858800",
+          "title": "特朗普：欢迎沙土巴三国签署共同防务协议",
+          "url": "https://flash.jin10.com/detail/20260817053245864800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时15分"
+          "time_info": "06时14分"
         },
         {
           "title": "特朗普再促参议院通过全年采用夏令时法案",
@@ -48,8 +48,41 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 05时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 06时14分]"
+        },
+        {
+          "title": "特朗普：已要求大幅削减与韩国的联合军演规模",
+          "url": "https://flash.jin10.com/detail/20260817051255445800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "美国总统特朗普：我对美国很久以前就同意与韩国进行联合军事演习这一事实感到不满。我已指示战争部长赫格塞思大幅减少联合军事演习。",
+          "url": "https://flash.jin10.com/detail/20260817050745376800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
+          "title": "美国总统特朗普：非常高兴看到沙特、土耳其和巴基斯坦最近终于签署了麦加联合防御协议。",
+          "url": "https://flash.jin10.com/detail/20260817050503839800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
         },
         {
           "title": "哈马斯方面表示，我们高度评价特朗普在促成加沙停火协议方面发挥的作用。",
@@ -58,11 +91,12 @@
           "ranks": [
             1,
             12,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时17分 ~ 05时15分]"
+          "appearance_count": 4,
+          "time_info": "[03时17分 ~ 06时14分]"
         },
         {
           "title": "哈马斯方面表示，他们是否同意特朗普计划的第二阶段，取决于是否能实现永久停火和以色列撤军。",
@@ -71,11 +105,12 @@
           "ranks": [
             2,
             13,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时17分 ~ 05时15分]"
+          "appearance_count": 4,
+          "time_info": "[03时17分 ~ 06时14分]"
         },
         {
           "title": "哈马斯方面表示，由哈立德·哈亚率领的组织领导层代表团今日在埃及会见了加沙协议的调解方和担保方，组织已向担保方通报，同意特朗普计划的第二阶段。",
@@ -84,11 +119,24 @@
           "ranks": [
             3,
             14,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时17分 ~ 05时15分]"
+          "appearance_count": 4,
+          "time_info": "[03时17分 ~ 06时14分]"
+        },
+        {
+          "title": "美国总统特朗普表示，他度过了一个“很棒”的周末，进行了“许多会议”。",
+          "url": "https://flash.jin10.com/detail/20260817043331858800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时14分]"
         },
         {
           "title": "据阿拉比亚电视台：特朗普高级顾问库什纳与加沙和平委员会的会晤已结束。",
@@ -249,8 +297,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "伊朗三大权力机构负责人举行会晤",
@@ -260,8 +308,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "伊朗称霍尔木兹海峡是结束冲突的筹码。（法尔斯通讯社）",
@@ -271,8 +319,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 05时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 06时14分]"
         },
         {
           "title": "伊朗称逮捕或消灭美军者将获奖励",
@@ -284,8 +332,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "据半岛电视台：伊朗议会议长表示，我们必须达到一种威慑水平，以免陷入战争、和平再到战争消耗的循环中。",
@@ -293,11 +341,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时16分 ~ 05时15分]"
+          "appearance_count": 3,
+          "time_info": "[04时16分 ~ 06时14分]"
         },
         {
           "title": "伊朗议会通过反渗透法案",
@@ -307,8 +356,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 05时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 06时14分]"
         },
         {
           "title": "伊朗称美军已被驱逐不得进入海峡",
@@ -318,8 +367,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 05时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 06时14分]"
         },
         {
           "title": "伊朗称美军已被驱逐不得进入海峡",
@@ -332,8 +381,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 04时16分]"
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "伊朗：美军不得进入霍尔木兹海峡",
@@ -343,11 +392,12 @@
             28,
             24,
             18,
-            14
+            14,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时19分 ~ 05时15分]"
+          "appearance_count": 6,
+          "time_info": "[02时19分 ~ 06时14分]"
         },
         {
           "title": "伊朗称逮捕或消灭美军者将获奖励",
@@ -357,20 +407,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 05时15分]"
-        },
-        {
-          "title": "伊朗媒体Fars News：伊朗革命卫队政治副司令表示，迄今为止，我们的行动一直是防御性的；但未来可能会转为进攻性。武装部队将采取变革性策略，并在必要时采取任何捍卫国家的行动。",
-          "url": "https://flash.jin10.com/detail/20260817033655350800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时16分 ~ 05时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 06时14分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗议会议长卡利巴夫表示，这是美国和以色列政权遭受的绝对最惨痛的失败。",
@@ -379,11 +417,39 @@
           "ranks": [
             4,
             15,
-            17
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时17分 ~ 06时14分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗议会议长卡利巴夫表示，我们在军事和政治上都赢得了这场战争。这并非指我们摧毁了美军；而是指美国和以色列曾带着9项明确且公开宣称的目标向我们发动攻击，但无论在哪个层面，他们都未能实现其中任何一项。",
+          "url": "https://flash.jin10.com/detail/20260817025637231800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时17分 ~ 06时14分]"
+        },
+        {
+          "title": "伊朗媒体Fars News：伊朗革命卫队政治副司令表示，迄今为止，我们的行动一直是防御性的；但未来可能会转为进攻性。武装部队将采取变革性策略，并在必要时采取任何捍卫国家的行动。",
+          "url": "https://flash.jin10.com/detail/20260817033655350800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            6,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时17分 ~ 05时15分]"
+          "time_info": "[04时16分 ~ 06时14分]"
         },
         {
           "title": "据半岛电视台：伊朗总统表示，在国内制造分歧的人必须意识到，这只会对美国和以色列有利。",
@@ -396,19 +462,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 02时19分]"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗议会议长卡利巴夫表示，我们在军事和政治上都赢得了这场战争。这并非指我们摧毁了美军；而是指美国和以色列曾带着9项明确且公开宣称的目标向我们发动攻击，但无论在哪个层面，他们都未能实现其中任何一项。",
-          "url": "https://flash.jin10.com/detail/20260817025637231800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时17分 ~ 05时15分]"
         },
         {
           "title": "据伊通社（IRNA）：伊朗陆军总司表示，我们确信，林肯号航空母舰至少被伊朗发射的弹药击中一次，以至于在一段时间内，舰上所有战斗机均无法起飞。",
@@ -429,11 +482,12 @@
           "ranks": [
             8,
             19,
-            21
+            21,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时17分 ~ 05时15分]"
+          "appearance_count": 4,
+          "time_info": "[03时17分 ~ 06时14分]"
         },
         {
           "title": "伊朗军方：每名入境美军悬赏50亿土曼",
@@ -493,8 +547,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "降幅超50%！英伟达缩减对OpenAI数据中心担保规模",
@@ -504,8 +558,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
@@ -515,8 +569,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划；全国首个算力“Token贷”落地",
@@ -527,8 +581,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 06时14分]"
         }
       ]
     },
@@ -544,8 +598,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
@@ -555,8 +609,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 05时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 06时14分]"
         }
       ]
     },
